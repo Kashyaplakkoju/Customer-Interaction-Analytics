@@ -66,4 +66,4 @@ The dataset is **synthetically generated** with 500 records and includes:
 
 👤 **Author**: Lakkoju Ganapathi Kashyap  
 📧 [glakkoju@gitam.in](mailto:glakkoju@gitam.in)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/lakkoju-ganapathi-kashyap](https://www.linkedin.com/in/lakkoju-ganapathi-kashyap-67508825a/)) | [GitHub](https://github.com/Kashyaplakkoju)  
+🔗 [LinkedIn]((https://www.linkedin.com/in/lakkoju-ganapathi-kashyap-67508825a/)) | [GitHub](https://github.com/Kashyaplakkoju)  
